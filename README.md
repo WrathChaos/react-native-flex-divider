@@ -30,7 +30,7 @@ npm i react-native-flex-divider
 
 ## Peer Dependencies
 
-Zero Divider
+Zero Dependency
 
 # Usage
 
